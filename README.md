@@ -74,6 +74,8 @@ hstr --show-configuration >> ~/.zshrc
 ```
 For detailed HSTR configuration documentation please refer to [Configuration](CONFIGURATION.md).
 
+There's also plugin for [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh/pull/9256) making HSTR easier to implement!
+
 
 ## Documentation
 Check man page:
